@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](https://your-username.github.io/cryptex-master-landing/)
+🔗 [View Demo](https://faresgherbawi.github.io/cryptex-master-landing/)
 
 
 ## 📌 Features
