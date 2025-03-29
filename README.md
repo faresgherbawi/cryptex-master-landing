@@ -1,4 +1,4 @@
-# Cryptex-Master Landing Page
+# Cryptex-Master Landing Page 💎
 
 ### A modern and responsive landing page for Cryptex-Master, built using HTML, CSS, and JavaScript.
 # Burger Restaurant Landing Page
@@ -15,7 +15,7 @@
 - Smooth animations and transitions 🎨  
 - Interactive UI with JavaScript ✨  
 - Mobile-friendly navigation 📱  
-- Menu showcase and contact section 🍔  
+- Menu showcase and contact section   
 
 
 ## 🛠️ Technologies Used
@@ -27,15 +27,4 @@
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-### 🌟 Star this repo if you like it! 😊
-JavaScript – Animations and interactivity
-
-📷 Preview
-
-
-
-### 📜 License
-
-This project is open-source and available under the MIT License.
-
-### 🌟 Star this repo if you like it! 😊
+**🌟 Star this repo if you like it! 😊**
